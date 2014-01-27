@@ -10,11 +10,26 @@ body {
 .document {
     max-width: 800px;
     margin: 0 auto;
+    margin-top: 40px;
     background: white;
 }
 
 .content {
     padding: 2em;
+    font-family: sans-serif;
+}
+
+h1 {
+    font-family: Verdana;
+    border-top: 3px dotted #333;
+    border-left: 3px dotted #333;
+    padding-left: 10px;
+}
+
+img {
+    max-width: 150px;
+    padding-left: 500px;
+    margin-bottom: -150px;
 }
 
 .important {
@@ -22,7 +37,9 @@ body {
 }
 
 #footer {
+    font-family: "Courier New", Courier, monospace;
     padding: .5em;
+    font-size: 10pt;
     color: white;
     background: black;
     text-align: center;
