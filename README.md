@@ -1,7 +1,7 @@
 CCS Web Workshop
 ================
 
-Three things going on here:
+Four things going on here:
 
   1. Workshop outline (plan.txt)
   2. Template for everyone to use as starting point (please add)
