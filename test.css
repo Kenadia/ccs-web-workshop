@@ -1,0 +1,29 @@
+/* todo:
+    -fonts
+    */
+
+body {
+    background: rgb(215, 215, 215);
+    margin: 0;
+}
+
+.document {
+    max-width: 800px;
+    margin: 0 auto;
+    background: white;
+}
+
+.content {
+    padding: 2em;
+}
+
+.important {
+    color: red;
+}
+
+#footer {
+    padding: .5em;
+    color: white;
+    background: black;
+    text-align: center;
+}

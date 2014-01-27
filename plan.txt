@@ -1,0 +1,21 @@
+1. plain text, .html
+2. philosophy of web design--spearation of concerns
+3. html structure
+4. HTML tags
+    - p
+    - h#
+    - a (href)
+    - img (src)
+    - strong
+    - span
+    - ul, li
+5. HTML attributes
+    - class
+    - id
+6. CSS selectors
+    - .
+    - #
+    - element
+    - ,
+    - descendent
+7. CSS attributes
